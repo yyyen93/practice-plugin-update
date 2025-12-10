@@ -4,12 +4,17 @@
   "type": "project",
   "require": {
     "php": "^8.0",
-    "wpackagist-plugin/contact-form-7": "^5.9"
+    "wpackagist-plugin/contact-form-7": "^6.1.4"
   },
   "repositories": [
     {
       "type": "composer",
       "url": "https://wpackagist.org"
     }
-  ]
+  ],
+  "config": {
+    "allow-plugins": {
+      "composer/installers": true
+    }
+  }
 }
