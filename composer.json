@@ -5,7 +5,13 @@
   "require": {
     "php": "^8.0",
     "wpackagist-plugin/contact-form-7": "^6.1.4",
-    "wpackagist-plugin/wordpress-seo": "^22.9"
+    "wpackagist-plugin/wordpress-seo": "^22.9",
+    "wpackagist-plugin/classic-editor": "^1.6.7",
+    "wpackagist-plugin/wordfence": "^8.0",
+    "wpackagist-plugin/woocommerce": "^8.0",
+    "wpackagist-plugin/akismet": "^4.0",
+    "wpackagist-plugin/really-simple-ssl": "^9.4.0",
+    "wpackagist-plugin/wpforms-lite": "^1.8"
   },
   "repositories": [
     {
