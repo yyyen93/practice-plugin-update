@@ -1,0 +1,15 @@
+{
+  "name": "howard/practice-plugin-update",
+  "description": "Practice project for updating a WordPress plugin via Composer and Git.",
+  "type": "project",
+  "require": {
+    "php": "^8.0",
+    "wpackagist-plugin/contact-form-7": "^5.9"
+  },
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://wpackagist.org"
+    }
+  ]
+}
