@@ -4,7 +4,8 @@
   "type": "project",
   "require": {
     "php": "^8.0",
-    "wpackagist-plugin/contact-form-7": "^6.1.4"
+    "wpackagist-plugin/contact-form-7": "^6.1.4",
+    "wpackagist-plugin/wordpress-seo": "^22.9"
   },
   "repositories": [
     {
